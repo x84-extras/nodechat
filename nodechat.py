@@ -1,8 +1,8 @@
 """ Multiuser Node Chat script for x/84, https://github.com/jquast/x84
 
-This script used to be a part of x/84 v1.x and was taken out in favour
-of the splitscreen chatter. It's not supported anymore and is to be
-used on your own RISK.
+This script was made of Jeff Quast to be a part of x/84 v1.x and it
+was taken out in favour of the splitscreen chatter. It's not supported
+anymore and is to be used on your own RISK.
 
 """
 
